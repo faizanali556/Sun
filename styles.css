@@ -102,7 +102,7 @@ ul a:hover::after {
   height: 100%;
 }
 .top-head {
-  background-image: url(/images/desktop/image-header.jpg);
+  background-image: url(./images/desktop/image-header.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -168,14 +168,14 @@ p {
 }
 
 .egg {
-  background-image: url(/images/desktop/image-transform.jpg);
+  background-image: url(./images/desktop/image-transform.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
   width: 100%;
 }
 .stand-out {
-  background-image: url(/images/desktop/image-stand-out.jpg);
+  background-image: url(./images/desktop/image-stand-out.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
@@ -225,7 +225,7 @@ p {
   align-items: center;
 }
 .Graphic-design {
-  background-image: url(/images/desktop/image-graphic-design.jpg);
+  background-image: url(./images/desktop/image-graphic-design.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 630px;
@@ -254,7 +254,7 @@ p {
 }
 
 .Photography {
-  background-image: url("/images/desktop/image-photography.jpg");
+  background-image: url("./images/desktop/image-photography.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 630px;
@@ -756,7 +756,7 @@ footer {
   }
   .top-head {
     text-align: center;
-    background-image: url(/images/mobile/image-header.jpg);
+    background-image: url(./images/mobile/image-header.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -811,7 +811,7 @@ footer {
     margin-bottom: 90px;
   }
   .egg {
-    background-image: url(/images/mobile/image-transform.jpg);
+    background-image: url(./images/mobile/image-transform.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -845,7 +845,7 @@ footer {
     margin-bottom: 90px;
   }
   .stand-out {
-    background-image: url(/images/mobile/image-stand-out.jpg);
+    background-image: url(./images/mobile/image-stand-out.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -856,7 +856,7 @@ footer {
     flex-direction: column;
   }
   .Graphic-design {
-    background-image: url(/images/mobile/image-graphic-design.jpg);
+    background-image: url(./images/mobile/image-graphic-design.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -879,7 +879,7 @@ footer {
   }
 
   .Photography {
-    background-image: url("/images/mobile/image-photography.jpg");
+    background-image: url("./images/mobile/image-photography.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
