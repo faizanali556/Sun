@@ -105,14 +105,17 @@ ul a:hover::after {
   background-image: url(./images/desktop/image-header.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-
-  width: 900px;
+  background-position: center;
+  width: 500px;
   height: 500px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+.top-head {
+  margin: auto;
 }
 .top-head h1 {
   font-family: Heebo, sans-serif;
@@ -254,7 +257,7 @@ p {
 }
 
 .Photography {
-  background-image: url("./images/desktop/image-photography.jpg");
+  background-image: url(./images/desktop/image-photography.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 630px;
